@@ -1,0 +1,14 @@
+.behind {
+  width: 30rem;
+  height: 43rem;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
+.small {
+    font-size: 0.6rem; 
+}
